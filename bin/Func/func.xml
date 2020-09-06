@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<functions>
+	<func class="Func.Functions" method="login">/login</func>
+	<func class="Func.Functions" method="register">/register</func>
+</functions>
